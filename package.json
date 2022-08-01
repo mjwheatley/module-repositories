@@ -1,5 +1,5 @@
 {
-  "name": "@mawhea/repositories",
+  "name": "@mawhea/module-repositories",
   "description": "Module exporting classes and interfaces for working with different database repositories",
   "version": "1.0.0",
   "author": "mjwheatley",
